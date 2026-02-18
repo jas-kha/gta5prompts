@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://gta5prompts.yolnoma.uz/</loc>
+    <lastmod>2026-02-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://gta5prompts.yolnoma.uz/GTA%205%20Artwork/images/Call/call%201920x1080.png</image:loc>
+      <image:title>GTA V AI Loading Screen Artwork — Call Scene</image:title>
+      <image:caption>AI-generated GTA V loading screen artwork created with Gemini Nano and ChatGPT</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://gta5prompts.yolnoma.uz/gallery.html</loc>
+    <lastmod>2026-02-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gta5prompts.yolnoma.uz/GTA%205%20Artwork/images/Call/call%201920x1080.png</image:loc>
+      <image:title>Loading Scene (Call) — HD 1920x1080</image:title>
+      <image:caption>GTA V style loading screen — Beach, Sunset, Smartphone. Gemini Nano + ChatGPT.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gta5prompts.yolnoma.uz/GTA%205%20Artwork/images/takeWeapon/takeWeapon%201920x1080.png</image:loc>
+      <image:title>Loading Scene (Weapon Take) — HD 1920x1080</image:title>
+      <image:caption>GTA V style loading screen — Street, Weapon, Confident. Gemini Nano + ChatGPT.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://gta5prompts.yolnoma.uz/GTA%205%20Artwork/images/Run/run%201920x1080.png</image:loc>
+      <image:title>Loading Scene (Run) — HD 1920x1080</image:title>
+      <image:caption>GTA V style loading screen — Railway, Explosion, Action. Gemini Nano + ChatGPT.</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://gta5prompts.yolnoma.uz/docs.html</loc>
+    <lastmod>2026-02-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>

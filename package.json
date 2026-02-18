@@ -1,15 +1,39 @@
 {
-  "name": "image-gen-prompts",
+  "name": "gta5prompts",
   "version": "1.0.0",
-  "description": "Image Generator by AI's ",
+  "description": "GTA V Loading Screen Artwork Generator — AI prompt engineering with Gemini Nano and ChatGPT. Hosted at gta5prompts.yolnoma.uz",
   "keywords": [
-    "image",
-    "image-generation",
-    "ai"
+    "gta5",
+    "gta-v",
+    "gta-5-artwork",
+    "ai-art",
+    "ai-image-generation",
+    "prompt-engineering",
+    "gemini-nano",
+    "chatgpt-image",
+    "loading-screen",
+    "los-santos",
+    "rockstar-art",
+    "image-generation"
   ],
+  "homepage": "https://gta5prompts.yolnoma.uz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jas-kha/gta5prompts"
+  },
   "license": "ISC",
-  "author": "JK Software",
+  "author": {
+    "name": "JK Software",
+    "url": "https://gta5prompts.yolnoma.uz"
+  },
   "type": "module",
-  "main": "index.js",
-  "scripts": {}
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve . --listen 3000",
+    "dev": "npx serve . --listen 3000 --no-clipboard",
+    "preview": "npx serve . --listen 5000"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
 }

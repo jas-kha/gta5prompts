@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://gta5prompts.yolnoma.uz/sitemap.xml
+
+# Host
+Host: https://gta5prompts.yolnoma.uz
+
+# Crawl-delay (optional, be nice to crawlers)
+Crawl-delay: 1
