@@ -1,0 +1,15 @@
+{
+  "name": "image-gen-prompts",
+  "version": "1.0.0",
+  "description": "Image Generator by AI's ",
+  "keywords": [
+    "image",
+    "image-generation",
+    "ai"
+  ],
+  "license": "ISC",
+  "author": "JK Software",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {}
+}
